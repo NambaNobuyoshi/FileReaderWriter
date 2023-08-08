@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PWPKq6W5wLgIvRstgtTeSWv7YZBBMoi557lfIKxFoNZ53RMxmYi7wZqT+0ewvjrmR+0/AhQwMNqfNo6kBFKUAA==",
+  "dgSpecHash": "iI+8vvqhzr6P9b2RWdaq5z/xXSvN/AgPTJpl98mVk7k81OzWEH+8Cn7+/QrGiMs9X0JqJbivQjvAirihaVgSrQ==",
   "success": true,
-  "projectFilePath": "D:\\Visual studio\\FileReadWrite\\FileReadWrite\\FileReadWrite.csproj",
+  "projectFilePath": "D:\\gitwork\\FileReaderWriter\\FileReadWrite\\FileReadWrite.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

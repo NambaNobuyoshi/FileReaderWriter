@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XmlSampleObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <list_book>
+    <book id="1">
+      <title>sample_novel</title>
+      <publisher>sample_syotenn</publisher>
+    </book>
+    <book id="2">
+      <title>sample_zasshi</title>
+      <publisher>sample_syotenn</publisher>
+    </book>
+    <book id="3">
+      <title>sample_novel</title>
+      <publisher>sample_syotenn</publisher>
+    </book>
+  </list_book>
+</XmlSampleObject>

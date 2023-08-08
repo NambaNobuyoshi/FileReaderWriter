@@ -13,3 +13,18 @@ D:\Visual studio\FileReadWrite\FileReadWrite\obj\Debug\net6.0\refint\FileReadWri
 D:\Visual studio\FileReadWrite\FileReadWrite\obj\Debug\net6.0\FileReadWrite.pdb
 D:\Visual studio\FileReadWrite\FileReadWrite\obj\Debug\net6.0\FileReadWrite.genruntimeconfig.cache
 D:\Visual studio\FileReadWrite\FileReadWrite\obj\Debug\net6.0\ref\FileReadWrite.dll
+D:\gitwork\FileReaderWriter\FileReadWrite\bin\Debug\net6.0\FileReadWrite.exe
+D:\gitwork\FileReaderWriter\FileReadWrite\bin\Debug\net6.0\FileReadWrite.deps.json
+D:\gitwork\FileReaderWriter\FileReadWrite\bin\Debug\net6.0\FileReadWrite.runtimeconfig.json
+D:\gitwork\FileReaderWriter\FileReadWrite\bin\Debug\net6.0\FileReadWrite.dll
+D:\gitwork\FileReaderWriter\FileReadWrite\bin\Debug\net6.0\FileReadWrite.pdb
+D:\gitwork\FileReaderWriter\FileReadWrite\obj\Debug\net6.0\FileReadWrite.csproj.AssemblyReference.cache
+D:\gitwork\FileReaderWriter\FileReadWrite\obj\Debug\net6.0\FileReadWrite.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitwork\FileReaderWriter\FileReadWrite\obj\Debug\net6.0\FileReadWrite.AssemblyInfoInputs.cache
+D:\gitwork\FileReaderWriter\FileReadWrite\obj\Debug\net6.0\FileReadWrite.AssemblyInfo.cs
+D:\gitwork\FileReaderWriter\FileReadWrite\obj\Debug\net6.0\FileReadWrite.csproj.CoreCompileInputs.cache
+D:\gitwork\FileReaderWriter\FileReadWrite\obj\Debug\net6.0\FileReadWrite.dll
+D:\gitwork\FileReaderWriter\FileReadWrite\obj\Debug\net6.0\refint\FileReadWrite.dll
+D:\gitwork\FileReaderWriter\FileReadWrite\obj\Debug\net6.0\FileReadWrite.pdb
+D:\gitwork\FileReaderWriter\FileReadWrite\obj\Debug\net6.0\FileReadWrite.genruntimeconfig.cache
+D:\gitwork\FileReaderWriter\FileReadWrite\obj\Debug\net6.0\ref\FileReadWrite.dll

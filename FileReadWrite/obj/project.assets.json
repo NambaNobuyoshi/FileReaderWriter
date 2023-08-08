@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Visual studio\\FileReadWrite\\FileReadWrite\\FileReadWrite.csproj",
+      "projectUniqueName": "D:\\gitwork\\FileReaderWriter\\FileReadWrite\\FileReadWrite.csproj",
       "projectName": "FileReadWrite",
-      "projectPath": "D:\\Visual studio\\FileReadWrite\\FileReadWrite\\FileReadWrite.csproj",
+      "projectPath": "D:\\gitwork\\FileReaderWriter\\FileReadWrite\\FileReadWrite.csproj",
       "packagesPath": "C:\\Users\\ramen\\.nuget\\packages\\",
-      "outputPath": "D:\\Visual studio\\FileReadWrite\\FileReadWrite\\obj\\",
+      "outputPath": "D:\\gitwork\\FileReaderWriter\\FileReadWrite\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ramen\\AppData\\Roaming\\NuGet\\NuGet.Config",
