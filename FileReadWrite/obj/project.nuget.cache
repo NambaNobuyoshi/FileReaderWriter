@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "iI+8vvqhzr6P9b2RWdaq5z/xXSvN/AgPTJpl98mVk7k81OzWEH+8Cn7+/QrGiMs9X0JqJbivQjvAirihaVgSrQ==",
+  "dgSpecHash": "dPn+v4mWL6s//Q81ALi9fik/Xh8isCZEarYy3TmAeDZ1s5emqsVbiUfTcay683fBoO4fDwSO0X+j8bxi9JmcCg==",
   "success": true,
   "projectFilePath": "D:\\gitwork\\FileReaderWriter\\FileReadWrite\\FileReadWrite.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ramen\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

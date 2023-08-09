@@ -17,6 +17,11 @@ namespace FileReadWrite.Domains
         {
             try
             {
+                if (!File.Exists(filePath))
+                {
+                    return default(T);
+                }
+
                 var xmlDeserealizer = new XmlSerializer(typeof(T));
                 var xmlSettings = new XmlReaderSettings() 
                 {

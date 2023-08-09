@@ -9,7 +9,7 @@ namespace FileReadWrite.Domains
 {
     public class XmlSampleObjectAccessor
     {
-        private static readonly string filePath = System.Environment.CurrentDirectory + @"\xmlSample.xml";
+        private static readonly string FILE_PATH = System.Environment.CurrentDirectory + @"\xmlSample.xml";
 
         private static readonly XmlFileReader xmlReader = new XmlFileReader();
         private static readonly XmlFileWriter xmlWriter = new XmlFileWriter();
@@ -17,19 +17,19 @@ namespace FileReadWrite.Domains
 
         public static XmlSampleObject GetSample()
         {
-            return xmlReader.Read<XmlSampleObject>(filePath);
+            return xmlReader.Read<XmlSampleObject>(FILE_PATH);
         }
 
         public static void SetSample(XmlSampleObject sampleObject)
         {
-            xmlWriter.Write<XmlSampleObject>(filePath, sampleObject);
+            xmlWriter.Write<XmlSampleObject>(FILE_PATH, sampleObject);
         }
 
         // @@TEST
         public static void InitSample()
         {
 
-            Console.WriteLine(filePath);
+            Console.WriteLine(FILE_PATH);
             var sampleObject = new XmlSampleObject();
 
             sampleObject.books = new List<SampleBook>
@@ -39,7 +39,7 @@ namespace FileReadWrite.Domains
                 new SampleBook{ id = 3, title = "sample_novel", publisher = "sample_syotenn"}
             };
 
-            xmlWriter.Write<XmlSampleObject>(filePath, sampleObject);
+            xmlWriter.Write<XmlSampleObject>(FILE_PATH, sampleObject);
         }
     }
 

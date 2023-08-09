@@ -1,0 +1,19 @@
+﻿{
+  "books": [
+    {
+      "id": 1,
+      "title": "編集後タイトル",
+      "publisher": "sample_syotenn"
+    },
+    {
+      "id": 2,
+      "title": "sample_zasshi",
+      "publisher": "sample_syotenn"
+    },
+    {
+      "id": 3,
+      "title": "sample_novel",
+      "publisher": "sample_syotenn"
+    }
+  ]
+}
